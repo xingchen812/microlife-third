@@ -1,0 +1,3 @@
+if(NOT PROJECT_MICROLIFE_THIRD_ROOT)
+    message(FATAL_ERROR "Variable PROJECT_MICROLIFE_THIRD_ROOT is not defined!")
+endif()
